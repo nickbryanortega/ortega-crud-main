@@ -103,7 +103,7 @@ export default function App() {
 
   return (
     <>
-      <h1>Pasco Task Manager CRUD</h1>
+      <h1>Ortega Task Manager CRUD</h1>
 
       {/* ADD TASK FORM */}
       <form onSubmit={CreateTask}>
